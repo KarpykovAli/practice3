@@ -1,0 +1,31 @@
+#title {
+	background-color: #f79e9e;
+}
+.pro {
+	width: 400px;
+	margin-left: 800px;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 170px;
+	margin-top: 100px;
+}
+h2 {
+	font-family: 'Montserrat';
+}
+.navbar-brand {
+	font-size: 20px;
+}
+a {
+	font-size: 19px;
+}
+.container-fluid {
+	padding: 1.8% 10%;
+}
+button {
+	margin-left: 205px;
+	margin-top: 30px;
+	width: 120px;
+	height: 50px;
+}
